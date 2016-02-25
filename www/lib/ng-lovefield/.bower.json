@@ -1,0 +1,51 @@
+{
+  "name": "ng-lovefield",
+  "version": "0.0.2",
+  "description": "This is an angular wrapper for the lovefield project",
+  "authors": [
+    "Kruvi Tomer <kruvitomer1991@gmail.com>"
+  ],
+  "main": [
+    "dest/ng-lovefield.min.js"
+  ],
+  "keywords": [
+    "lovefield",
+    "ng-lovefield",
+    "angular-lovefield",
+    "indexeddb",
+    "angular-indexeddb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kutomer/ng-lovefield"
+  },
+  "dependencies": {
+    "angular": "~1.4.0",
+    "lovefield": "~2.1.5"
+  },
+  "devDependencies": {
+    "angular-route": "~1.4.0"
+  },
+  "resolutions": {
+    "angular": "1.4.8"
+  },
+  "homepage": "https://github.com/kutomer/ng-lovefield",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.2",
+    "commit": "279168786c8ceea03a40781ac84ff807264224f8"
+  },
+  "_source": "git://github.com/kutomer/ng-lovefield.git",
+  "_target": "~0.0.2",
+  "_originalSource": "ng-lovefield",
+  "_direct": true
+}
