@@ -1,7 +1,7 @@
 {
   "name": "agenda-academica-cimatec",
   "version": "1.1.1",
-  "description": "agenda-academica-cimatec: An Ionic project",
+  "description": "Projeto de app híbrido para gerenciar a agenda acadêmica dos alunos da rede SENAI/CIMATEC",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
