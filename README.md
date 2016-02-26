@@ -2,7 +2,7 @@ Agenda Acadêmica CIMATEC
 ===================
 
 
-Este projeto tem como objetivo desenvolver um app híbrido onde os alunos da rede SENAI (Não somente os alunos CIMATEC) possam gerenciar de maneira rápida e fácil suas matérias, notas e agenda de provas e trabalhos de cada semestre.
+Este projeto tem como objetivo desenvolver um aplicativo híbrido onde os alunos da rede SENAI (Não somente os alunos CIMATEC) possam gerenciar de maneira rápida e fácil suas matérias, notas e agenda de provas e trabalhos de cada semestre.
 
 ----------
 
@@ -42,7 +42,7 @@ Protótipos de Tela Iniciais
 
 Estes são os conceitos iniciais do aplicativo.
 Tela Login e Cadastro | Tela Agenda de Atividades | Sidebar
- --- | ---
+ --- | --- | ---
  ![Tela Login e Cadastro](readme-imgs/IMG_20160225_213358.jpg) | ![Tela Agenda de Atividades](readme-imgs/IMG_20160225_213416.jpg) | ![Sidebar](readme-imgs/IMG_20160225_213428.jpg)
 
 Tela Horários de Aula | Tela Lista de Disciplinas
