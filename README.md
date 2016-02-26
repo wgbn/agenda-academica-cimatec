@@ -41,9 +41,10 @@ Protótipos de Tela Iniciais
 ----------------
 
 Estes são os conceitos iniciais do aplicativo.
+
 Tela Login e Cadastro | Tela Agenda de Atividades | Sidebar
- --- | --- | ---
- ![Tela Login e Cadastro](readme-imgs/IMG_20160225_213358.jpg) | ![Tela Agenda de Atividades](readme-imgs/IMG_20160225_213416.jpg) | ![Sidebar](readme-imgs/IMG_20160225_213428.jpg)
+--- | --- | ---
+![Tela Login e Cadastro](readme-imgs/IMG_20160225_213358.jpg) | ![Tela Agenda de Atividades](readme-imgs/IMG_20160225_213416.jpg) | ![Sidebar](readme-imgs/IMG_20160225_213428.jpg)
 
 Tela Horários de Aula | Tela Lista de Disciplinas
 --- | ---
